@@ -25,7 +25,7 @@
   <br>
   📚 I’m currently learning System Design
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/I-m-abhishek/I-m-abhishek/issues" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: katiyar.abhi.7890@gmail.com">katiyar.abhi.7890@gmail.com</a>
 </p>
